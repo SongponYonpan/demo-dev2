@@ -1,7 +1,11 @@
 ### First commit
 ### Second commit
 ### Third commit
+<<<<<<< HEAD
 ### Forth commit
 ### Fifth commit
 ### Size
 
+=======
+### Forth commit
+>>>>>>> 9060c80ba9c0681fd7be7a6670028c839e71371d
